@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Leaflet debug page</title>
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin=""/>
+<!--       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-beta.2/leaflet.css" /> -->
+      <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+        crossorigin=""></script>
+<!--       <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-beta.2/leaflet.js"></script> -->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="leaflet_opts/screen.css" />
+      
+      <link rel="stylesheet" href="leaflet_opts/MarkerCluster.css" />
+      <link rel="stylesheet" href="leaflet_opts/MarkerCluster.Default.css" />
+      <script src="leaflet_opts/leaflet.markercluster-src.js"></script>
+      <script src="org-locations.js"></script>
+  </head>
+  <body>
+    <div id="talkmap"></div>
+      <script>
+        var mymap = L.map('talkmap', {zoomSnap: 0.25});
+        var mywindow = mymap.getSize();
+        
+        if (mywindow.x < 400) {
+          mymap.setView([0, 0], 0);
+          
+          var maxClusterRadius = 25;
+          var scaling          = 0.8;
+        } else {
+          mymap.setView([30, 0], 0.75);
+          
+          var maxClusterRadius = 15;
+          var scaling          = 0.85;
+        }
+
+        L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+          maxZoom: 8,
+          minZoom: 0,
+          attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012',
+        }).addTo(mymap);
+
+       var markers = L.markerClusterGroup({
+         showCoverageOnHover: true,
+         maxClusterRadius: maxClusterRadius
+       });
+       
+       for (var i = 0; i < addressPoints.length; i++) {
+         var a = addressPoints[i];
+         var title = a[0];
+         var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title });
+         
+         // Rescaling of markers if wanted.
+         var icon = marker.options.icon;
+         icon.options.iconSize      = [25, 41].map(x => x * scaling);
+         icon.options.iconAnchor    = [12, 41].map(x => x * scaling);
+         icon.options.popupAnchor   = [1, -34].map(x => x * scaling);
+         icon.options.tooltipAnchor = [16, -28].map(x => x * scaling);
+         icon.options.shadowSize    = [41, 41].map(x => x * scaling);
+         marker.setIcon(icon);
+         
+         marker.bindPopup(title);
+         markers.addLayer(marker);
+       }
+       
+       mymap.addLayer(markers);
+       mymap.zoomIn();
+     </script>
+  </body>
+</html>

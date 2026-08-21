@@ -1,0 +1,22 @@
+################################################################################
+# MAIN NAVIGATION BAR LINKS                                                    #
+################################################################################
+
+main:
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Software"
+    url: /software/
+
+  - title: "Conference Contributions"
+    url: /conferences/
+
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Research Projects"
+    url: /projects/
+    
+  - title: "CV"
+    url: /cv/
