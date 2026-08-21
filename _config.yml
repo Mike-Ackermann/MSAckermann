@@ -13,7 +13,7 @@ name                     : &name "Michael S. Ackermann"
 description              : &description "Ph.D candidate at Department of Mathematics, Virginia Tech, USA"
 url                      : https://mike-ackermann.github.io # http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mike-Ackermann/MSAckermann.github.io"
+repository               : "Mike-Ackermann/MSAckermann.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
