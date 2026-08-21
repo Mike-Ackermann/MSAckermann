@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Steffen W. R. Werner"
+title                    : "Michael S. Ackermann"
 title_separator          : "-"
-name                     : &name "Steffen W. R. Werner"
-description              : &description "Assistant Professor at Department of Mathematics and Division of Computational Modeling and Data Analytics, Virginia Tech, USA"
-url                      : https://ninsteve.github.io # http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Michael S. Ackermann"
+description              : &description "Ph.D candidate at Department of Mathematics, Virginia Tech, USA"
+url                      : https://mike-ackermann.github.io # http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ninsteve/ninsteve.github.io"
+repository               : "mike-Ackermann/MSAckermann.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "main" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Steffen W. R. Werner"
+  name             : "Michael S. Ackermann"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor at Virginia Tech, Blacksburg, USA"
+  bio              : "Ph.D candidate at Virginia Tech, Blacksburg, USA"
   location_str     : "460 McBryde Hall"
   location_plc     : "Blacksburg, VA 24061"
   location_ctr     : "USA"
   location         : 
   employer         : 
   pubmed           :
-  googlescholar    : "https://scholar.google.de/citations?user=F2v1uKAAAAAJ&hl=en"
-  email            : "steffen.werner@vt.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=PcWZQloAAAAJ&hl=en"
+  email            : "amike98@vt.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -99,14 +99,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ninsteve"
+  github           : "https://github.com/Mike-Ackermann"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/steffen-w-r-werner-8266661a3/"
-  orcid            : "https://orcid.org/0000-0003-1667-4862"
+  linkedin         : "https://www.linkedin.com/in/michael-ackermann-86461412b/"
+  orcid            : "https://orcid.org/0000-0003-3581-6299"
   pinterest        :
   soundcloud       :
   stackoverflow    :
