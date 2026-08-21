@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<p class="text-block">
+<!-- <p class="text-block">
 UNDER CONSTRUCTION
-</p>
+</p> -->
 
-<!--
+
 <p class="text-block">
 <img class="mainprofilepic" src="/images/profile_large.jpg"
 alt="Full Profile picture">
@@ -42,7 +42,7 @@ During that time, I was an associated member of the German Research Foundation
 (DFG) Research Training Group <a target="blank_"
 href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
 (MathCoRe)"</a>.
-</p> -->
+</p>
 
 <!-- ## Latest News ##
 
