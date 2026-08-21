@@ -14,6 +14,12 @@ redirect_from:
   }
 </style>
 
+<p class="text-block">
+UNDER CONSTRUCTION
+</p>
+
+<!--
+
 ## Professional Experience ##
 
 <table class="eventtable">
@@ -145,4 +151,4 @@ redirect_from:
 
 A one-page resume of my CV can be downloaded <a target="blank_"
 href="../files/cv/swrwerner_resume.pdf">here</a> and the full version of my CV
-<a target="blank_" href="../files/cv/swrwerner_cv.pdf">here</a>.
+<a target="blank_" href="../files/cv/swrwerner_cv.pdf">here</a>. -->

@@ -30,6 +30,12 @@ author_profile: true
   <a href="#theses">Theses (3)</a>
 </p>
 
+<p class="text-block">
+UNDER CONSTRUCTION
+</p>
+
+<!--
+
 You can also find my publications on my
 <a target="blank_" href="{{ author.googlescholar }}">Google Scholar</a>
 and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
@@ -734,9 +740,10 @@ found at the end of my
     Otto-von-Guericke-Universität, Magdeburg, Germany, 2014.  
     <button id="Wer14-pop" class="btn btn--inverse">BibTeX</button>
 
-
+-->
 <!-- Javascripts for Buttons and BibTeX content. -->
 
+<!--
 <div id="includedBibTeX"></div>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css"/>
@@ -746,4 +753,4 @@ found at the end of my
   $(function(){
     $("#includedBibTeX").load("{{ base_path }}/files/publications/bibtex.html"); 
   });
-</script>
+</script> -->

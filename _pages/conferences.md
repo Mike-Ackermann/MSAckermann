@@ -11,6 +11,12 @@ author_profile: true
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+<p class="text-block">
+UNDER CONSTRUCTION
+</p>
+
+<!--
+
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#ms">Organizational work (13)</a>
 </p>
@@ -968,4 +974,5 @@ author_profile: true
       Munich, Germany.
     </td>
   </tr>
-</table>
+</table> -->
+
