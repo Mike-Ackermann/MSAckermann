@@ -11,7 +11,7 @@ redirect_from:
 ## Michael S. Ackermann ##
 
 <p class="text-block">
-<img class="mainprofilepic" src="/images/profile.jpeg"
+<img class="mainprofilepic" src="{{ base_path }}/images/profile.jpeg"
 alt="Full Profile picture">
 I am a Ph.D. candidate
 in the <a target="blank_" href="https://math.vt.edu/">Department of
