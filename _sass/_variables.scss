@@ -53,20 +53,22 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$mygreen                    : #03A07B;
-$mygreen-analogous          : #03A02D;
+$mygreen                    : #a0a083;
+// $mygreen-analogous          : #03A02D;
 $myblue-analogous           : #0377A0;
+$mygray                     : #291711;
 
 
-$body-color                 : #fff;
-$background-color           : #fff;
+
+$body-color                 : #EAE0CC;
+$background-color           : #EAE0CC;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $mygreen;
-$footer-color               : $mygreen;
-$sidebar-box-color          : mix(#fff, $mygreen-analogous, 50%);
-$header-color               : $mygreen;
+$border-color               : $mygray;
+$footer-color               : $mygray;
+$sidebar-box-color          : $mygreen;
+$header-color               : $mygray;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
