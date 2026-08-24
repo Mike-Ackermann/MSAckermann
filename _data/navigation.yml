@@ -18,5 +18,8 @@ main:
   - title: "Research Projects"
     url: /projects/
     
+  # - title: "CV"
+  #   url: /cv/
   - title: "CV"
-    url: /cv/
+    url: /files/cv/MSAckermann_CV.pdf
+    target: "_blank"
