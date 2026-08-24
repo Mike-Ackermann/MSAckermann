@@ -7,16 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<p class="text-block">
-UNDER CONSTRUCTION
-</p>
 
+## Michael S. Ackermann ##
 
 <p class="text-block">
 <img class="mainprofilepic" src="/images/profile.jpeg"
 alt="Full Profile picture">
-<strong>Michael S. Ackermann</strong> </p>
-<p class="text-block">
 I am a Ph.D. candidate
 in the <a target="blank_" href="https://math.vt.edu/">Department of
 Mathematics</a> at
@@ -25,7 +21,7 @@ State University (Virginia Tech)</a>.
 The focus of my dissertation is data-driven reduced order modeling, rational
  approximation, numerical linear algebra, and scientific computing.
 My advisors are <a target="blank_" href="https://gugercin.math.vt.edu">Serkan Gugercin</a>
-and <a target="blank_" href="https://ninsteve.github.io">Steffen W. R. Werner</a>
+and <a target="blank_" href="https://ninsteve.github.io">Steffen W. R. Werner</a>.
 </p> 
  
 
