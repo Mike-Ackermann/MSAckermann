@@ -12,37 +12,23 @@ UNDER CONSTRUCTION
 </p>
 
 
-<!-- <p class="text-block">
-<img class="mainprofilepic" src="/images/profile_large.jpg"
+<p class="text-block">
+<img class="mainprofilepic" src="/images/profile.jpeg"
 alt="Full Profile picture">
-My name is <strong>Steffen W. R. Werner</strong> and I am an assistant professor
-with the <a target="blank_" href="https://math.vt.edu/">Department of
-Mathematics</a> and the <a target="blank_"
-href= "https://data.science.vt.edu/programs/cmda.html">Division of Computational
-Modeling and Data Analytics</a>, and I am an affiliate faculty member of the
-<a target="blank_" href= "https://nationalsecurity.vt.edu/">Virginia Tech 
-National Security Institute</a> at the
+<strong>Michael S. Ackermann</strong> </p>
+<p class="text-block">
+I am a Ph.D. candidate
+in the <a target="blank_" href="https://math.vt.edu/">Department of
+Mathematics</a> at
 <a target="blank_" href="https://www.vt.edu/">Virginia Polytechnic Institute and
 State University (Virginia Tech)</a>.
-There, I am working on projects involving scientific machine learning, numerical
-linear algebra, model order reduction and optimization.
-</p>
-<p class="text-block">
-Before that, I was a postdoctoral associate in the Department of Computer
-Science at the <a target="blank_" href="https://cims.nyu.edu/dynamic/">Courant
-Institute of Mathematical Sciences, New York University</a>.
-I obtained my doctoral degree (Dr. rer. nat.) from the Department of Mathematics
-at the <a target="blank_" href="https://www.uni-magdeburg.de/en/">Otto von
-Guericke University</a> in Magdeburg, Germany, while I work as a doctoral
-researcher in the <a target="blank_" href="https://www.mpi-magdeburg.mpg.de/csc">
-Computational Methods in Systems and Control Theory group</a> at the <a
-target="blank_" href="https://www.mpi-magdeburg.mpg.de/2316/en">Max Planck 
-Institute for Dynamics of Complex Technical Systems</a> in Magdeburg.
-During that time, I was an associated member of the German Research Foundation
-(DFG) Research Training Group <a target="blank_"
-href="https://www.mathcore.ovgu.de/">"Mathematical Complexity Reduction
-(MathCoRe)"</a>.
-</p> -->
+The focus of my dissertation is data-driven reduced order modeling, rational
+ approximation, numerical linear algebra, and scientific computing.
+My advisors are <a target="blank_" href="https://gugercin.math.vt.edu">Serkan Gugercin</a>
+and <a target="blank_" href="https://ninsteve.github.io">Steffen W. R. Werner</a>
+</p> 
+ 
+
 
 <!-- ## Latest News ##
 
