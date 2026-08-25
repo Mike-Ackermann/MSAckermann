@@ -43,9 +43,9 @@ found at the end of my
 </style>
 
 ---
-<!--
-## <a name="submitted"></a>Submitted Articles ##
 
+## <a name="submitted"></a>Submitted Articles ##
+<!--
 1.  <strong>M. S. Ackermann</strong>, L. Balicki, S. Gugercin, and
     S. W. R. Werner.
     <a target="blank_"
