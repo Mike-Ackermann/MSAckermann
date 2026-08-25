@@ -57,7 +57,7 @@ found at the end of my
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
-<!--
+
 1.  <strong>M. S. Ackermann</strong>, S. W. R. Werner, I. V. Gosea, and
     S. Gugercin.
     <a target="blank_"
@@ -149,7 +149,6 @@ found at the end of my
     systems from time-domain data. Thesis, Virginia Tech, 92 pages,
     June 2022.
 
--->
 <!-- Javascripts for Buttons and BibTeX content. -->
 
 
