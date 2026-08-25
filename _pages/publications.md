@@ -147,3 +147,17 @@ found at the end of my
 1.  <strong>M. S. Ackermann</strong>. Frequency-domain learning of dynamical
     systems from time-domain data. Thesis, Virginia Tech, 92 pages,
     June 2022.
+
+<!-- Javascripts for Buttons and BibTeX content. -->
+
+
+<div id="includedBibTeX"></div>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+<script> 
+  $(function(){
+    $("#includedBibTeX").load("{{ base_path }}/files/publications/bibtex.html"); 
+  });
+</script>
