@@ -27,7 +27,7 @@ author_profile: true
   <a href="#theses">Theses (1)</a>
 </p>
 
-<!--
+
 You can also find my publications on my
 <a target="blank_" href="{{ author.googlescholar }}">Google Scholar</a>
 and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
@@ -43,7 +43,7 @@ found at the end of my
 </style>
 
 ---
-
+<!--
 ## <a name="submitted"></a>Submitted Articles ##
 
 1.  <strong>M. S. Ackermann</strong>, L. Balicki, S. Gugercin, and
