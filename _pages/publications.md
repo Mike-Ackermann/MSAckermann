@@ -27,6 +27,7 @@ author_profile: true
   <a href="#theses">Theses (1)</a>
 </p>
 
+<!--
 You can also find my publications on my
 <a target="blank_" href="{{ author.googlescholar }}">Google Scholar</a>
 and <a target="blank_" href="{{ author.orcid }}">ORCID</a> profiles.
@@ -148,6 +149,7 @@ found at the end of my
     systems from time-domain data. Thesis, Virginia Tech, 92 pages,
     June 2022.
 
+-->
 <!-- Javascripts for Buttons and BibTeX content. -->
 
 
