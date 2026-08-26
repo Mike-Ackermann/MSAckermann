@@ -56,7 +56,7 @@ found at the end of my
     <a target="blank_" href="https://arxiv.org/abs/2601.19813">
     <button class="btn btn--inverse">Preprint</button></a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
+    <button class="btn btn--inverse">Code & Data</button></a>
 
 ---
 
@@ -71,13 +71,18 @@ found at the end of my
     doi:<a target="blank_" href="https://doi.org/10.1007/s10444-026-10347-y">10.1007/s10444-026-10347-y</a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.19895043">
     <button class="btn btn--inverse">Code & Data</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 1.  <strong>M. S. Ackermann</strong>, S. Reiter, and L. N. Trefethen.
     <a target="blank_"
     href="https://doi.org/10.1007/s40687-026-00650-x">L<sup>2</sup> and
     L<sup>&infin;</sup> rational approximation on the unit disk</a>.
     <i>Research in the Mathematical Sciences</i>, 13(3), 2026.
-    doi:<a target="blank_" href="https://doi.org/10.1007/s40687-026-00650-x">10.1007/s40687-026-00650-x</a>
+    doi:<a target="blank_" href="https://doi.org/10.1007/s40687-026-00650-x">10.1007/s40687-026-00650-x</a><br />
+    <a target="blank_" href="https://zenodo.org/records/18746402">
+    <button class="btn btn--inverse">Code & Data</button></a>
 
 1.  <strong>M. S. Ackermann</strong> and S. Gugercin.
     <a target="blank_"
@@ -102,10 +107,15 @@ found at the end of my
 ## <a name="proceedings"></a>Proceedings ##
 
 1.  <strong>M. S. Ackermann</strong>, P. Bochev, and D. Ridzal.
-    Towards a reduced model for hyperbolic partial differential equations.
+    <a target="blank_"
+    href="https://www.sandia.gov/ccr/csri-summer-programs/computer-science-research-institute-summer-proceedings-2025/">
+    Towards a reduced model for hyperbolic partial differential equations</a>.
     Technical report SAND2025-14267O, The Computer Science Research Institute
     at Sandia National Laboratories, Albuquerque, New Mexico,
     pages 3&ndash;16, 2025.
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 ---
 
@@ -117,6 +127,13 @@ found at the end of my
     for numerical experiments in "Second-order AAA algorithms for structured
     data-driven modeling" (version 1.1)</a>, May 2026.
     doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.19895043">10.5281/zenodo.19895043</a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
 
 1.  <strong>M. S. Ackermann</strong>, S. W. R. Werner, and L. Balicki.
     <a target="blank_"
@@ -124,6 +141,13 @@ found at the end of my
     for numerical experiments in "A refined nonlinear least-squares method
     for the rational approximation problem"</a>, January 2026.
     doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">10.5281/zenodo.18317028</a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
 
 1.  <strong>M. S. Ackermann</strong>.
     <a target="blank_"
@@ -131,6 +155,13 @@ found at the end of my
     Numerical Experiments in "Time-Domain Iterative Rational Krylov
     Method"</a>, July 2024.
     doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.12751391">10.5281/zenodo.12751391</a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
 
 1.  <strong>M. S. Ackermann</strong>.
     <a target="blank_"
@@ -138,14 +169,26 @@ found at the end of my
     numerical experiments in "Frequency-Based Reduced Models from Purely
     Time-Domain Data via Data Informativity" (version 1.0)</a>, November 2023.
     doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10076325">10.5281/zenodo.10076325</a>
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
 
 ---
 
 ## <a name="theses"></a>Theses ##
 
-1.  <strong>M. S. Ackermann</strong>. Frequency-domain learning of dynamical
+1.  <strong>M. S. Ackermann</strong>. 
+    <a target="blank_"
+    href="http://hdl.handle.net/10919/110851">Frequency-domain learning of dynamical</a>
     systems from time-domain data. Thesis, Virginia Tech, 92 pages,
     June 2022.
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 <!-- Javascripts for Buttons and BibTeX content. -->
 
