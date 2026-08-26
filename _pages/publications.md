@@ -135,6 +135,19 @@ found at the end of my
     <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
     alt="License: BSD 2-Clause" class="badge"></a>
 
+1.  S. Reiter, <strong>M. S. Ackermann</strong> and L. N. Trefethen.
+    <a target="blank_"
+    href="https://doi.org/10.5281/zenodo.18746402">Code and Results for Numerical Experiments in "L<sup>2</sup> and
+    L<sup>&infin;</sup> rational approximation on the unit disk" (version 1.0)</a>, February 2026.
+    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.18746402">10.5281/zenodo.18746402</a><br />
+    <a target ="_blank"
+    href="https://en.wikipedia.org/wiki/Open-source_software">
+    <img src="../images/open_source_symbol.png" alt="Open Source Software"
+    class="opensource"></a>
+    <a href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg"
+    alt="License: BSD 2-Clause" class="badge"></a>
+
 1.  <strong>M. S. Ackermann</strong>, S. W. R. Werner, and L. Balicki.
     <a target="blank_"
     href="https://doi.org/10.5281/zenodo.18317028">Code, data and results
