@@ -112,7 +112,7 @@ found at the end of my
     Towards a reduced model for hyperbolic partial differential equations</a>.
     Technical report SAND2025-14267O, The Computer Science Research Institute
     at Sandia National Laboratories, Albuquerque, New Mexico,
-    pages 3&ndash;16, 2025.
+    pages 3&ndash;16, 2025.<br />
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess"></a>
@@ -126,7 +126,7 @@ found at the end of my
     href="https://doi.org/10.5281/zenodo.19895043">Code, data and results
     for numerical experiments in "Second-order AAA algorithms for structured
     data-driven modeling" (version 1.1)</a>, May 2026.
-    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.19895043">10.5281/zenodo.19895043</a>
+    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.19895043">10.5281/zenodo.19895043</a><br />
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
     <img src="../images/open_source_symbol.png" alt="Open Source Software"
@@ -140,7 +140,7 @@ found at the end of my
     href="https://doi.org/10.5281/zenodo.18317028">Code, data and results
     for numerical experiments in "A refined nonlinear least-squares method
     for the rational approximation problem"</a>, January 2026.
-    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">10.5281/zenodo.18317028</a>
+    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">10.5281/zenodo.18317028</a><br />
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
     <img src="../images/open_source_symbol.png" alt="Open Source Software"
@@ -154,7 +154,7 @@ found at the end of my
     href="https://doi.org/10.5281/zenodo.12751391">Code and Data for the
     Numerical Experiments in "Time-Domain Iterative Rational Krylov
     Method"</a>, July 2024.
-    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.12751391">10.5281/zenodo.12751391</a>
+    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.12751391">10.5281/zenodo.12751391</a><br />
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
     <img src="../images/open_source_symbol.png" alt="Open Source Software"
@@ -168,7 +168,7 @@ found at the end of my
     href="https://doi.org/10.5281/zenodo.10076325">Code and Data for the
     numerical experiments in "Frequency-Based Reduced Models from Purely
     Time-Domain Data via Data Informativity" (version 1.0)</a>, November 2023.
-    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10076325">10.5281/zenodo.10076325</a>
+    doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.10076325">10.5281/zenodo.10076325</a><br />
     <a target ="_blank"
     href="https://en.wikipedia.org/wiki/Open-source_software">
     <img src="../images/open_source_symbol.png" alt="Open Source Software"
@@ -185,7 +185,7 @@ found at the end of my
     <a target="blank_"
     href="http://hdl.handle.net/10919/110851">Frequency-domain learning of dynamical</a>
     systems from time-domain data. Thesis, Virginia Tech, 92 pages,
-    June 2022.
+    June 2022.<br />
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess"></a>
