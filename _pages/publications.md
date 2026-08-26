@@ -58,21 +58,19 @@ found at the end of my
     <a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">
     <button class="btn btn--inverse">Code, Data & Results</button></a>
 
-1.  <strong>M. S. Ackermann</strong>, S. W. R. Werner, I. V. Gosea, and
-    S. Gugercin.
-    <a target="blank_"
-    href="https://arxiv.org/abs/2506.02241">Second-order AAA algorithms for
-    structured data-driven modeling</a>.
-    Accepted to appear in Advances in Computational Mathematics.
-    e-print 2506.20241, arXiv, 2025.<br />
-    <a target="blank_" href="https://arxiv.org/abs/2506.02241">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.19895043">
-    <button class="btn btn--inverse">Code, Data & Results</button></a>
-
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  <strong>M. S. Ackermann</strong>, S. W. R. Werner, I. V. Gosea, and
+    S. Gugercin.
+    <a target="blank_"
+    href="https://doi.org/10.1007/s10444-026-10347-y">Second-order AAA algorithms for
+    structured data-driven modeling</a>.
+    <i>Advances in Computational Mathematics<i>, 52(5):76, 2026
+    doi:<a target="blank_" href="https://doi.org/10.1007/s10444-026-10347-y">10.1007/s10444-026-10347-y</a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.19895043">
+    <button class="btn btn--inverse">Code & Data</button></a>
 
 1.  <strong>M. S. Ackermann</strong>, S. Reiter, and L. N. Trefethen.
     <a target="blank_"
@@ -113,21 +111,21 @@ found at the end of my
 
 ## <a name="software"></a>Software ##
 
-1.  <strong>M. Ackermann</strong> and S. W. R. Werner.
+1.  <strong>M. S. Ackermann</strong> and S. W. R. Werner.
     <a target="blank_"
     href="https://doi.org/10.5281/zenodo.19895043">Code, data and results
     for numerical experiments in "Second-order AAA algorithms for structured
     data-driven modeling" (version 1.1)</a>, May 2026.
     doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.19895043">10.5281/zenodo.19895043</a>
 
-1.  <strong>M. Ackermann</strong>, S. W. R. Werner, and L. Balicki.
+1.  <strong>M. S. Ackermann</strong>, S. W. R. Werner, and L. Balicki.
     <a target="blank_"
     href="https://doi.org/10.5281/zenodo.18317028">Code, data and results
     for numerical experiments in "A refined nonlinear least-squares method
     for the rational approximation problem"</a>, January 2026.
     doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">10.5281/zenodo.18317028</a>
 
-1.  <strong>M. Ackermann</strong>.
+1.  <strong>M. S. Ackermann</strong>.
     <a target="blank_"
     href="https://doi.org/10.5281/zenodo.12751391">Code and Data for the
     Numerical Experiments in "Time-Domain Iterative Rational Krylov
