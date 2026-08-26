@@ -196,8 +196,8 @@ found at the end of my
 
 1.  <strong>M. S. Ackermann</strong>. 
     <a target="blank_"
-    href="http://hdl.handle.net/10919/110851">Frequency-domain learning of dynamical</a>
-    systems from time-domain data. Thesis, Virginia Tech, 92 pages,
+    href="http://hdl.handle.net/10919/110851">Frequency-domain learning of dynamical
+    systems from time-domain data</a>. Thesis, Virginia Tech, 92 pages,
     June 2022.<br />
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"

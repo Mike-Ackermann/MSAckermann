@@ -11,9 +11,6 @@ author_profile: true
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<p class="text-block">
-UNDER CONSTRUCTION
-</p>
 
 ## Supplementary code packages and data ##
 

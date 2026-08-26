@@ -15,10 +15,10 @@ author_profile: true
 UNDER CONSTRUCTION TEST
 </p>
 
-<!--
+
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#ms">Organizational work (13)</a>
+  <a href="#ms">Organizational work (1)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#talks">Talks (61)</a>
@@ -30,16 +30,7 @@ UNDER CONSTRUCTION TEST
   <a href="#participation">Additional participation (7)</a>
 </p>
 
-<div style="width:100%; text-align:center;">
-<iframe src="/talkmap/map.html" class="talkmap"></iframe>
-</div>
-<p class="text-block">
-  This map is an overview of the different places I attended for conferences,
-  workshops and seminars to give talks and poster presentations.
-  Clusters are labeled by the number of places they collect and can be zoomed
-  in for more details by clicking on them.
-</p>
-
+<!--
 ---
 
 ## <a name="ms"></a>Organizational work ##
