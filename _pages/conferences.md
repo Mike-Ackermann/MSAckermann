@@ -14,7 +14,7 @@ author_profile: true
   <a href="#organization">Conference organization (1)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#talks">Talks (17)</a>
+  <a href="#talks">Talks (16)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#posters">Presented posters (4)</a>
@@ -206,8 +206,8 @@ author_profile: true
   <tr>
     <td style="width:8%"> 06/08/2025&ndash;<br>06/13/2025 </td>
     <td>
-      <strong><a target="blank_"
-      href="https://householder-symposium.github.io/">Householder Symposium XXII</a></strong>,
+      <strong><a target="blank_" href="https://householder-symposium.github.io/">Leveraging Numerical Linear Algebra for Robust Learning of Optimal H2 models from time-domain data</a></strong>,
+      <i>Householder Symposium XXII</i>,
       Cornell University,
       Ithaca, NY, USA,
       (poster).
