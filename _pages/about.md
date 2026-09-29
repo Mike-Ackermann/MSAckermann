@@ -25,7 +25,10 @@ The focus of my dissertation is data-driven reduced order modeling, rational
 My advisors are <a target="blank_" href="https://gugercin.math.vt.edu">Serkan Gugercin</a>
 and <a target="blank_" href="https://ninsteve.github.io">Steffen W. R. Werner</a>.
 </p> 
- 
+
+<p class="text-block">
+My dissertation research is supported by the <a target="blank_" href = "https://www.simonsfoundation.org/2025/07/23/first-class-of-simons-dissertation-fellows-in-mathematics-announced/">Simons dissertation fellowship in mathematics</a>, as well as the Lee R. and Regina Aultice Steeneck Graduate Scholarship.  For the past two summers, I have been a <a target="blank_" href = "https://www.sandia.gov/ccr/csri-summer-programs/">Computer Science Research Institute summer intern</a> at Sandia National Laboratory.
+</p>
 
 
 <!-- ## Latest News ##

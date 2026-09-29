@@ -9,28 +9,28 @@ author_profile: true
 UNDER CONSTRUCTION
 </p>
 
-<!--
+
 
 ## Research Interests ##
 
-* **Scientific Machine Learning**:
-  Data-Driven (Structured) Reduced-Order Modeling,
-  Context-Aware Learning
-* **Model Order Reduction**:
-  Approximation of Dynamical Systems,
-  Structured Interpolation,
-  Projection-Based Methods
-* **Numerical Linear Algebra**:
-  Matrix Equations,
-  Eigenvalue Problems,
-  PDE-Constrained Optimization
-* **Scientific Computing**:
-  Mathematical Software,
-  Efficient Algorithm Design,
-  Numerical Experiments
+* **Data-driven modeling**:
+  Reduced order modeling of dynamical systems, rational approximation
+* **Reduced order modeling of hyperbolic PDEs**: 
+  Conservation laws, nonlinear reduced order modeling
+* **Numerical linear algebra**:
+  Efficient, problem specific linear algebra solvers, conditioning analysis
+* **Scientific computing**:
+  Robust numerical software, open source software
   
 ---
+## Data-driven modeling of dynamical systems ##
 
+## Adaptive rational approximation ##
+
+## Reduced order modeling of hyperbolic conservation laws ##
+
+
+<!--
 ## Context-Aware Learning of Low-Dimensional Controllers ##
   
 <p class="text-block">
