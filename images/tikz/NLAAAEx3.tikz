@@ -1,0 +1,36 @@
+\begin{tikzpicture}[minimum width = 1cm, minimum height = 1cm, rounded corners = 0pt]
+\pgfplotstableread{data/synthetic_NLAAAEx.csv}\tableEx
+
+\begin{semilogyaxis}[
+  axis background/.style={fill=gray!10},
+  clip mode = individual,
+  width = .95\linewidth,
+  height = 8cm,
+  ymin   = 4e-4,
+  xlabel = {x},
+  ylabel = {y},
+  enlarge x limits = false,
+  xtick={100.19009009009,399.459459459459},
+  xticklabels={$\lambda_1$,$\lambda_2$},
+  yticklabels = {},
+  % x tick label style = {yshift = .5cm},
+%  y tick label style = {xshift = -.2cm},
+  % xlabel style = {yshift = 1cm},
+  ylabel style = {yshift = -.6cm},
+  legend columns = -1,
+  legend style={inner sep = .3em, /tikz/every even column/.append style={column sep=.5cm},/tikz/every odd column/.append style={column sep=.25cm}, at={(.5,-.6)}, anchor = south, fill = gray!10},
+  legend entries={Data,approximation}]
+            \addplot[trueData] table[col sep=comma,y=g]{\tableEx};
+            \addplot[apxFun] table[col sep=comma,y=F3]{\tableEx};
+            \addplot[lamPoint2]
+                    table[meta=class,col sep=comma, y=g]{\tableEx};
+
+            \addplot[pointline] coordinates {
+              (100.19009009009, 4e-4)
+              (100.19009009009, 0.100021526359619)};
+
+            \addplot[pointline] coordinates {
+              (399.459459459459, 4e-4)
+              (399.459459459459, 0.0499734831703205)};
+    \end{semilogyaxis}
+\end{tikzpicture}

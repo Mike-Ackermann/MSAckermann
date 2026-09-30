@@ -1,0 +1,75 @@
+\documentclass{article}
+
+% Math packages.
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{dsfont}
+
+% Graphical packages.
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{pgfplots}
+  \pgfplotsset{%
+    compat        = 1.17,
+    table/col sep = comma}
+  \usepgfplotslibrary{external}
+  \tikzset{external/system call = {%
+    pdflatex \tikzexternalcheckshellescape
+      -halt-on-error
+      -interaction=batchmode
+      -jobname "\image" "\texsource"}}
+  \tikzexternalize[prefix = externalize/]
+  \tikzexternaldisable
+
+\usepackage{caption}
+\usepackage{subcaption}
+
+% Input graphics.
+\newcommand{\includetikz}[1]{%
+  \tikzexternalenable%
+  \tikzsetnextfilename{#1}%
+  \input{#1.tikz}%
+  \tikzexternaldisable%
+}
+
+% Colors.
+\definecolor{matlabblue}{HTML}{0072BD}
+\definecolor{matlaborange}{HTML}{D95319}
+\definecolor{matlabyellow}{HTML}{EDB120}
+\definecolor{matlabpurple}{HTML}{7E2F8E}
+\definecolor{matlabgreen}{HTML}{77AC30}
+\definecolor{matlablightblue}{HTML}{4DBEEE}
+\definecolor{matlabred}{HTML}{A2142F}
+
+\colorlet{trueDataColor}{black}
+\colorlet{AAAColor}{matlabblue}
+\colorlet{AAAAColor}{matlaborange}
+
+\pgfplotsset{xlabel near ticks, ylabel near ticks, table/col sep=comma, every axis title shift=3pt,every axis plot/.append style={every mark/.append style={solid}}}
+\pgfplotsset{
+            trueData/.style={only marks, line width = 5pt, black, mark=*},
+            apxFun/.style={solid, line width = 5pt, matlaborange},
+            err/.style={only marks, line width = 5pt, Matlab4, mark=*},
+            lamPoint1/.style={only marks, scatter, scatter src=explicit symbolic, scatter/classes={
+                    b={matlaborange, mark = otimes, mark size = 13pt, line width=3pt},
+                    a={mark size=0pt},
+                    c={mark size=0pt}}},
+            lamPoint2/.style={only marks, scatter, scatter src=explicit symbolic, scatter/classes={
+                    b={matlaborange, mark = otimes, mark size = 13pt, line width=3pt},
+                    c={matlaborange, mark = otimes, mark size = 13pt, line width=3pt},
+                    a={mark size=0pt}}},
+            conv1/.style={line width = 5pt, Matlab4},
+            conv2/.style={line width = 5pt, matlaborange}
+    }
+
+\tikzstyle{pointline} = [%
+  dashed,
+  matlabblue,
+  line width = 3pt
+]
+\begin{document}
+\includetikz{NLAAAEx3}
+\end{document}
