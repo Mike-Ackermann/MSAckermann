@@ -12,10 +12,10 @@ author_profile: true
 {% endif %}
 
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#submitted">Submitted Articles (2)</a>
+  <a href="#submitted">Submitted Articles (0)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
-  <a href="#journal">Journal Articles (3)</a>
+  <a href="#journal">Journal Articles (5)</a>
 </p>
 <p style="margin-top:0.5em; margin-bottom:0.5em">
   <a href="#proceedings">Proceedings (1)</a>
@@ -46,21 +46,23 @@ found at the end of my
 
 ## <a name="submitted"></a>Submitted Articles ##
 
-1.  <strong>M. S. Ackermann</strong>, L. Balicki, S. Gugercin, and
-    S. W. R. Werner.
-    <a target="blank_"
-    href="https://arxiv.org/abs/2601.19813">The NLAAA algorithm for rational
-    approximation &ndash; applications to model order reduction</a>.
-    Submitted to Research in the Mathematical Sciences.
-    e-print 2601.19813, arXiv, 2026.<br />
-    <a target="blank_" href="https://arxiv.org/abs/2601.19813">
-    <button class="btn btn--inverse">Preprint</button></a>
-    <a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">
-    <button class="btn btn--inverse">Code & Data</button></a>
 
 ---
 
 ## <a name="journal"></a>Journal Articles ##
+
+1.  <strong>M. S. Ackermann</strong>, L. Balicki, S. Gugercin, and
+    S. W. R. Werner.
+    <a target="blank_"
+    href="https://doi.org/10.1007/s40687-026-00668-1">The NLAAA algorithm for rational
+    approximation &ndash; applications to model order reduction</a>.
+    <i>Research in the Mathematical Sciences<i>, 13(4):82, 2026.
+    doi:<a target="blank_" href="https://doi.org/10.1007/s40687-026-00668-1">10.1007/s40687-026-00668-1</a>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">
+    <button class="btn btn--inverse">Code & Data</button></a>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
+    <img src="../images/open_access_symbol.png" alt="Open Access Published"
+    class="openaccess"></a>
 
 1.  <strong>M. S. Ackermann</strong>, S. W. R. Werner, I. V. Gosea, and
     S. Gugercin.
