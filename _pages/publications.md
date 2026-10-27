@@ -59,7 +59,7 @@ found at the end of my
     <i>Research in the Mathematical Sciences<i>, 13(4):82, 2026.
     doi:<a target="blank_" href="https://doi.org/10.1007/s40687-026-00668-1">10.1007/s40687-026-00668-1</a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.18317028">
-    <button class="btn btn--inverse">Code & Data</button></a>
+    <button class="btn btn--inverse">Code & Data</button></a><br />
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess"></a>
@@ -72,7 +72,7 @@ found at the end of my
     <i>Advances in Computational Mathematics<i>, 52(5):76, 2026
     doi:<a target="blank_" href="https://doi.org/10.1007/s10444-026-10347-y">10.1007/s10444-026-10347-y</a>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.19895043">
-    <button class="btn btn--inverse">Code & Data</button></a>
+    <button class="btn btn--inverse">Code & Data</button></a><br />
     <a target="_blank" href="https://en.wikipedia.org/wiki/Open_access">
     <img src="../images/open_access_symbol.png" alt="Open Access Published"
     class="openaccess"></a>
